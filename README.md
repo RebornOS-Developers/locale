@@ -1,0 +1,2 @@
+# locale
+cnchi locale files
